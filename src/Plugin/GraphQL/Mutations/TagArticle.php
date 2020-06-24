@@ -83,7 +83,7 @@ class TagArticle extends MutationPluginBase implements ContainerFactoryPluginInt
 
 
           $storage = \Drupal::entityTypeManager()->getStorage('node');
-
+          $updated = false;
           $vid = 'tags';
           $valid_tids = [];
           $valid_terms =\Drupal::entityTypeManager()->getStorage('taxonomy_term')->loadTree($vid);
