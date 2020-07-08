@@ -1,0 +1,14 @@
+{
+  "name": "agalligani/drupal_graphql_mutations",
+  "type": "library",
+  "description": "GraphQL Mutations for Drupal 8 & 9",
+  "keywords": ["Drupal", "GraphQL", "Mutations"],
+  "homepage": "http://tacitus.org/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anthony Galligani",
+      "email": "anthony.galligani@gmail.com"
+    }
+  ]
+}
