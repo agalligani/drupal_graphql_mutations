@@ -1,6 +1,6 @@
 {
   "name": "agalligani/drupal_graphql_mutations",
-  "type": "library",
+  "type": "drupal-module",
   "description": "GraphQL Mutations for Drupal 8 & 9",
   "keywords": [
     "Drupal",
